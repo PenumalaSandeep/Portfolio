@@ -19,7 +19,8 @@ export function Contact() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setIsSubmitting(true);
-
+ 
+    
     try {
       // EmailJS send function
       const result = await emailjs.send(
