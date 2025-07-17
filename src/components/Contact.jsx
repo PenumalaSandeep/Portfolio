@@ -64,7 +64,7 @@ export function Contact() {
       <form onSubmit={handleSubmit} className="my-6 space-y-4">
         {/* Name Field */}
         <div>
-          <label htmlFor="name" className="block text-white mb-1">
+          <label html For="name" className="block text-white mb-1">
             Your Name
           </label>
           <input
