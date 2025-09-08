@@ -66,6 +66,7 @@ const AchievementsTable = () => {
       description:
         "Designed and implemented an Attendance Tracker using Python and OpenCV that automates student check-ins through facial recognition. Developed a user-friendly admin interface with Tkinter to manage user registration and attendance logs securely, all without the need for manual input.",
       techStack: ["Python", "OpenCV", "Cascading Styles"],
+      link:"https://github.com/PenumalaSandeep/Attendancetracker",
     },
   ];
 
